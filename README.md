@@ -1,1 +1,1 @@
-My blog for CS373!
+My first blog for Software Engineering!!! :)
