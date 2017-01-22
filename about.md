@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a senior at University of Texas at Austin majoring in Computer Science with a minor in Chinese. 
-
-### More Information
-
-One of my hobbies is to fold origami. 
+Eat. Code. Dance. Sleep. Recurse.
 
 ### Contact me
 
-[jinwook.kim@utexas.edu](mailto:jinwook.kim@utexas.edu)
+[rohit.venugopal@utexas.edu](mailto:rohit.venugopal@utexas.edu)
